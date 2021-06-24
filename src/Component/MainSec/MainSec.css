@@ -1,0 +1,36 @@
+.details{
+    margin-top: 100px;
+    margin-left: 270px;
+    color: white;
+}
+.details h1{
+    font-size: 80px;
+    font-weight: 400;
+}
+.details p{
+    font-size: 20px;
+    font-weight: 400;
+
+}
+.link{
+    margin-top: 50px;
+    margin-left: 270px;
+    color: white;
+    display: flex;
+}
+.btn{
+    padding: 20px 60px;
+    border: 1px solid orange;
+    color: white;
+    font-size: 20px;
+}
+.socialLink{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.socialLink a{
+    margin-left: 10px;
+    margin-right: 50px;
+    text-decoration: none;
+    color: white;
+}
